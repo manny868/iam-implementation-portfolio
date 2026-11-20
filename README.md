@@ -24,9 +24,9 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
+**Name:** Imole Enyabine
+**LinkedIn:** [[linkedin.com/in/yourprofile]](https://www.linkedin.com/in/obi-e-b21401248/)
+**GitHub:** [[github.com/yourusername]](https://github.com/manny868)
 **Status:** In progress
 
 ---
